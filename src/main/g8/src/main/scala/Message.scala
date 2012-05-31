@@ -1,7 +1,7 @@
 package $org_id$
 
 import java.util.Date
-import com.github.hexx.gaeds.{ Datastore, Mapper, Property }
+import com.github.hexx.gaeds.{ Mapper, Property }
 import com.github.hexx.gaeds.Property._
 
 class Message(

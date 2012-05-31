@@ -2,6 +2,7 @@ package $org_id$
 
 import unfiltered.request._
 import unfiltered.response._
+import com.github.hexx.gaeds.Datastore
 
 class App extends unfiltered.filter.Plan {
   val messageLimit = 100
